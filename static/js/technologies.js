@@ -37,7 +37,7 @@ const technologies = [
         icon: "mongodb.svg",
     },
     {
-        url: "https://www.mongodb.com/",
+        url: "https://www.postgresql.org/",
         name: "PostgreSQL",
         icon: "postgres.svg",
     },
